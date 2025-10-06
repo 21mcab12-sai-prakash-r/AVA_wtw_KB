@@ -1,43 +1,52 @@
 | Record ID | Field Name | Error Type | Actual Value | Recommended Value | Confidence Score | Remarks/Reason for Recommendation | Notes for Manual Reviewers |
 |-----------|----------------|------------|--------------|-------------------|------------------|------------------------------------------------------------------------|------------------------------------------------------|
-| 10        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 11        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 12        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 13        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 14        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 15        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 16        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 17        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 18        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 19        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 20        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 21        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 22        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 23        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 24        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 25        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 26        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 27        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 28        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 29        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 30        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 31        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 32        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 33        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 34        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 35        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 36        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 37        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 38        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 39        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 40        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 41        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 42        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 43        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 44        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 45        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 46        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 47        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 48        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 49        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
-| 50        | Area/City Code | E          | (blank)      | AE000             | 100%             | KB for United Arab Emirates: “No region codes”; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9138 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9139 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9140 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9141 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9142 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9143 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9144 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 10 | Area/City Code | E | (blank) | AR000 | 100% | KB for Argentina: "No region codes"; use country default AR000. | If a specific city/zone becomes available, update it. |
+| 9145 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9146 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9147 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9148 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9149 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9150 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9151 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9152 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9153 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9154 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9155 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9156 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9157 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9158 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9159 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9160 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9161 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9162 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9163 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9164 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9165 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9166 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9167 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9168 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9169 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9170 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9171 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9172 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9173 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 9174 | Area/City Code | E | (blank) | AE000 | 100% | KB for UAE: "No region codes"; use country default AE000. | If a specific city/zone becomes available, update it. |
+| 8 | Area/City Code | E | (blank) | AO000 | 100% | KB for Angola: "No region codes"; use country default AO000. | If a specific city/zone becomes available, update it. |
+| 9 | Area/City Code | E | (blank) | AO000 | 100% | KB for Angola: "No region codes"; use country default AO000. | If a specific city/zone becomes available, update it. |
+| 408 | Area/City Code | E | (blank) | AT000 | 100% | KB for Austria: "No region codes"; use country default AT000. | If a specific city/zone becomes available, update it. |
+| 409 | Area/City Code | E | (blank) | AT000 | 100% | KB for Austria: "No region codes"; use country default AT000. | If a specific city/zone becomes available, update it. |
+| 410 | Area/City Code | E | (blank) | AT000 | 100% | KB for Austria: "No region codes"; use country default AT000. | If a specific city/zone becomes available, update it. |
+| 411 | Area/City Code | E | (blank) | AT000 | 100% | KB for Austria: "No region codes"; use country default AT000. | If a specific city/zone becomes available, update it. |
+| 412 | Area/City Code | E | (blank) | AT000 | 100% | KB for Austria: "No region codes"; use country default AT000. | If a specific city/zone becomes available, update it. |
+| 413 | Area/City Code | E | (blank) | AT000 | 100% | KB for Austria: "No region codes"; use country default AT000. | If a specific city/zone becomes available, update it. |
+| 414 | Area/City Code | E | (blank) | AT000 | 100% | KB for Austria: "No region codes"; use country default AT000. | If a specific city/zone becomes available, update it. |
+| 415 | Area/City Code | E | (blank) | AT000 | 100% | KB for Austria: "No region codes"; use country default AT000. | If a specific city/zone becomes available, update it. |
+| 416 | Area/City Code | E | (blank) | AT000 | 100% | KB for Austria: "No region codes"; use country default AT000. | If a specific city/zone becomes available, update it. |
+| 417 | Area/City Code | E | (blank) | AT000 | 100% | KB for Austria: "No region codes"; use country default AT000. | If a specific city/zone becomes available, update it. |
