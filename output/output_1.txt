@@ -1,3 +1,0 @@
-| Record ID | Field Name     | Error Type | Actual Value | Recommended Value | Confidence Score | Remarks/Reason for Recommendation                                     | Notes for Manual Reviewers                           |
-|-----------|----------------|------------|--------------|-------------------|------------------|------------------------------------------------------------------------|------------------------------------------------------|
-| 98        | Area/City Code | E          | (blank)      | AO000             | 95%              | Per KB for Angola: “No region codes”; use country default AO000.       | If a specific city/zone becomes available, update it. |
