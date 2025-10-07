@@ -1,2 +1,0 @@
-| Record ID | Field Name     | Error Type | Actual Value | Recommended Value | Confidence Score | Remarks/Reason for Recommendation                                     | Notes for Manual Reviewers                           |
-|-----------|----------------|------------|--------------|-------------------|------------------|------------------------------------------------------------------------|------------------------------------------------------|
